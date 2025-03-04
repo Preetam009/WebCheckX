@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # Mac automatic created file
-.DS_Store
+*.DS_Store
